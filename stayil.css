@@ -1,0 +1,9 @@
+.newDevcart {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  max-width: 300px;
+  border: 2px solid dimgray;
+  padding: 12px;
+  border-radius: 12px;
+}
